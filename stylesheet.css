@@ -1,0 +1,86 @@
+/*html, body, h1, h2, h3, p, ol, ul, li, a{
+	padding:0;
+	border:0;
+	margin:0;
+}*/
+
+
+
+body {
+	font: 22px Times;
+	
+}
+
+.contact { word-spacing: 1;
+		font-size: 15px;
+		margin: 0 0 0 5px;
+		padding: 0 0 0 10px; 
+		float:right;
+		
+}
+
+.bodybox {
+
+	width: 600px;
+	background-color: #EEEEEE;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 10px;
+    padding: 10px 100px;
+    text-align: left;
+}
+
+
+
+h1 {
+	padding: 15px 0 0 0;
+	margin: 0 10px 0 0;
+	font-size: 50px
+
+}
+
+
+
+
+
+	
+h3 {border-bottom: 2px solid #000;}
+
+.date {
+	margin-left: 25px;
+
+}
+
+.job_description { 
+	margin-left: 35px;}
+
+.courses {
+	margin-left: 50px;
+}
+
+
+.profile {
+	font-size: 19px;
+    font-style: italic;
+    margin: 0 0 0 0;
+    padding-top: 1px;
+   
+  
+    
+}
+
+.osu {
+	font-size: 30px
+	margin-top: 0;
+	padding-top: 1px;
+
+}
+
+.listostuffdone {
+	font-size: 24px
+}
+.job_description {
+	font-size: 24px;
+	font-style: italic;
+
+}
